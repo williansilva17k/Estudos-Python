@@ -1,6 +1,9 @@
-print("*********************************")
-print("------ Bem-vindo a Forca! -------")
-print("*********************************")
-
 def jogar():
-    print("Game Over!")
+    print("*********************************")
+    print("***Bem vindo ao jogo da Forca!***")
+    print("*********************************")
+
+    print("Fim do jogo")
+
+if(__name__ == "__main__"):
+    jogar()
